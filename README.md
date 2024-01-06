@@ -33,7 +33,7 @@ MAA 的意思是 MAA Assistant Arknights
 
 </div>
 
-## 亮点功能
+## MAA 的亮点功能
 
 - 刷理智，掉落识别及上传 [企鹅物流](https://penguin-stats.cn/)；
 - 智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 [自定义排班](https://maa.plus/docs/协议文档/基建排班协议.html)；
